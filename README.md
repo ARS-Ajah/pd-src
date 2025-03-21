@@ -25,7 +25,7 @@
 
 ## 📦 Installation
 ### **Windows (EXE)**
-1. **Download the latest release** from [GitHub Releases](https://github.com/YourUsername/Pixel-Dodger/releases).
+1. **Download the latest release** from [itch.io](https://infinitycreate.itch.io/dodge-a-pixel).
 2. Run the `PixelDodger.exe` file.
 3. Start dodging! 🎮
 
